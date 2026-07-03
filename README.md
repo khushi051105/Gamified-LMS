@@ -29,3 +29,8 @@ gamified-lms/ ├── public/ │ ├── css/ ├── dashboard.css ├�
 
 
 │ └── images/ ├── views/ │ ├── index.html │ ├── login.html │ ├── dashboard.html │ └── quiz.html └── signup.html └── learnlaws.html ├── server.js ├── package.json └── README.md
+<img width="1344" height="601" alt="image" src="https://github.com/user-attachments/assets/16866eff-12c3-4ad4-ac88-f248c01bb38d" />
+<img width="1341" height="617" alt="image" src="https://github.com/user-attachments/assets/41eed78b-fe9c-4f2a-b5b7-b41562b1c43b" />
+<img width="1164" height="572" alt="image" src="https://github.com/user-attachments/assets/343995f4-deba-4efc-8544-ca436e348ce6" />
+<img width="1339" height="618" alt="image" src="https://github.com/user-attachments/assets/f4a8df6b-953d-439e-96a6-710cef92ef5e" />
+
